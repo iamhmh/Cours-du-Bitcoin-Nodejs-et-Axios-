@@ -11,14 +11,14 @@ L'idée ici était simplement de récupérer les données de l'API Coindesk afin
 
 Pour cela j'ai utilisé :
 
--Node.js (pour l'écriture du script),
--Axios pour manipuler l'API,
--Nodemon pour recharger automatiquement le terminal.
+- Node.js (pour l'écriture du script),
+- Axios pour manipuler l'API,
+- Nodemon pour recharger automatiquement le terminal.
 
 ## Installation du projet
 
-1.Cloner le projet dans votre IDE.
-2.Installer la dépendance Axios via la commande `npm install` dans le terminal.
+1. Cloner le projet dans votre IDE.
+2. Installer la dépendance Axios via la commande `npm install` dans le terminal.
 
 ## Utilisation du projet 
 
